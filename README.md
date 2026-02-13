@@ -2,7 +2,7 @@
 
 New icon for the KOReader app on PocketBook devices that fits the style of the current PocketBook OS.
 
-**Only tested on the following devices:**
+**Only tested on the following devices (Firmware 6.8.xxxx and 6.10.xxxx):**
 - Era Color (icons should fit the normal Era too)
 - Verse Pro (icons should fit the Verse Pro Color too)
 
